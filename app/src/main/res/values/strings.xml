@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="nom">Nom :</string>
+    <string name="pr_nom">Prénom :</string>
+    <string name="age">Age :</string>
+    <string name="bienvenue">BIENVENUE</string>
+    <string name="master">Master</string>
+    <string name="cycle_ing_nieur">Cycle ingénieur</string>
+    <string name="ann_es_pr_paratoires">Années Préparatoires</string>
+    <string name="filiere">FILIERE</string>
+    <string name="mari">Marié</string>
+    <string name="etat_familial">ETAT FAMILIAL</string>
 </resources>
