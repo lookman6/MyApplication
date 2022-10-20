@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi solicitud</string>
+    <string name="nom">Nombre :</string>
+    <string name="pr_nom">apellido :</string>
+    <string name="age">Edad :</string>
+    <string name="bienvenue">BIENVENIDA</string>
+    <string name="master">Maestro</string>
+    <string name="cycle_ing_nieur">Ciclo de ingeniería</string>
+    <string name="ann_es_pr_paratoires">Años de preparación</string>
+    <string name="filiere">SECTOR</string>
+    <string name="mari">Casado</string>
+    <string name="etat_familial">ESTADO DE LA FAMILIA</string>
+</resources>

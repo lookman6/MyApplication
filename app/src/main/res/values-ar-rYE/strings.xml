@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">طلبي</string>
+    <string name="nom">اللقب :</string>
+    <string name="pr_nom">الاسم الاول :</string>
+    <string name="age">سن :</string>
+    <string name="bienvenue">مرحبا</string>
+    <string name="master">يتقن</string>
+    <string name="cycle_ing_nieur">دورة الهندسة</string>
+    <string name="ann_es_pr_paratoires">سنوات تحضيرية</string>
+    <string name="filiere">الأساتذه</string>
+    <string name="mari">متزوج</string>
+    <string name="etat_familial">الوضع العائلي</string>
+</resources>
